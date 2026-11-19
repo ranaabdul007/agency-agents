@@ -27,7 +27,7 @@ Goal: find businesses that fit CodezCraft (distributors, wholesalers, manufactur
 | Step | Subagent | Output |
 |---|---|---|
 | 1. Pick the week's market and offer | Offer & Lead Gen Strategist (`sales-offer-lead-gen-strategist`) | Target country, segment, which product to pitch |
-| 2. Find leads | Outbound Strategist (`sales-outbound-strategist`) + web search | 10-20 leads with public contact details in `leads/` |
+| 2. Find leads | Outbound Strategist (`sales-outbound-strategist`) + web search | 10-20 leads in `leads/`, each with a public email or mobile (WhatsApp) number; landline-only leads go to a separate "call / contact form" list |
 | 3. Write first messages | Email Marketing Strategist (`marketing-email-strategist`) | Short, personal, one question, in the lead's language |
 | 4. Content that attracts leads | Content Creator (`marketing-content-creator`), SEO Specialist (`marketing-seo-specialist`) | Website pages, case study (Riaz Industries) |
 | 5. Reply came in: discovery | Discovery Coach (`sales-discovery-coach`) | Call questions, notes on their process and pain |
