@@ -1,0 +1,38 @@
+# CodezCraft AI company: specialist agents (install with scripts/install.sh --agents-file)
+# Manager
+specialized-chief-of-staff
+support-executive-summary-generator
+# Sales team
+sales-pipeline-analyst
+sales-offer-lead-gen-strategist
+sales-outbound-strategist
+marketing-email-strategist
+marketing-content-creator
+marketing-seo-specialist
+sales-discovery-coach
+sales-engineer
+sales-proposal-strategist
+sales-deal-strategist
+sales-account-strategist
+customer-success-manager
+# Development team
+project-manager-senior
+product-manager
+engineering-software-architect
+engineering-frontend-developer
+engineering-backend-architect
+engineering-mobile-app-builder
+engineering-ai-engineer
+engineering-code-reviewer
+testing-test-automation-engineer
+testing-api-tester
+testing-reality-checker
+engineering-devops-automator
+engineering-technical-writer
+# Social media team
+marketing-social-media-strategist
+marketing-linkedin-content-creator
+marketing-carousel-growth-engine
+design-image-prompt-engineer
+design-brand-guardian
+support-analytics-reporter
