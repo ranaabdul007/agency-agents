@@ -36,7 +36,7 @@ Goal: find businesses that fit CodezCraft (distributors, wholesalers, manufactur
 | 8. Keep and grow clients | Account Strategist (`sales-account-strategist`), Customer Success Manager (`customer-success-manager`) | Follow-ups, upsell ideas |
 | Numbers | Pipeline Analyst (`sales-pipeline-analyst`) | Funnel counts and what to fix |
 
-Product routing (from the profile): retail billing/stock -> SalesNest; manufacturing/finance -> custom ERP; overseas buyers -> export catalogue website; Pakistani e-invoicing -> FBR Digital Invoicing.
+Product routing (from the profile): retail billing/stock -> SalesNest; manufacturing/finance -> custom ERP; overseas buyers -> export catalogue website; Pakistani e-invoicing -> FBR Digital Invoicing; any other need -> customized software development.
 
 **Handoff to Development:** when a deal is Won, create `projects/<client>.md` with the proposal scope, then start Team 2.
 
