@@ -1,0 +1,4 @@
+leads/*
+!leads/.gitkeep
+reports/*
+!reports/.gitkeep
